@@ -17,7 +17,7 @@ git clone https://github.com/yourusername/telegram-image-downloader-bot.git
 
 2. Перейдите в каталог проекта:
 
-cd telegram-image-downloader-bot
+cd telegram-image-direct-link
 
 
 3. Установите необходимые зависимости:
