@@ -12,7 +12,7 @@
 
 1. Клонируйте репозиторий на свой локальный компьютер:
 
-git clone https://github.com/yourusername/telegram-image-direct-link.git
+git clone https://github.com/suuuuumod/telegram-image-direct-link.git
 
 
 2. Перейдите в каталог проекта:
